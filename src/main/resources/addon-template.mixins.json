@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.example.addon.Api.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ExampleMixin",
+    "IBlockSettings",
+    "MixinTitleScreen",
+    "TextVisitFactoryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
