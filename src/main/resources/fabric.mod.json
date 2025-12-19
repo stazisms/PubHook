@@ -9,7 +9,7 @@
 	"Fruitloop"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "repo": "https://github.com/stazisms/PubHook"
   },
   "icon": "assets/template/icon.png",
   "environment": "client",
